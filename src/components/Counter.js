@@ -51,16 +51,16 @@ const styles = StyleSheet.create({
     },
     text: {
         fontSize: 40,
-        color: '#FFD0EC',
+        color: '#168071',
     },
     button: {
-        backgroundColor: '#81689D',
+        backgroundColor: '#223331',
         paddingVertical: 10,
         paddingHorizontal: 20,
         borderRadius: 10,
     },
     buttonText: {
-        color: '#FFD0EC',
+        color: '#168071',
         fontSize: 20,
     }
 });
